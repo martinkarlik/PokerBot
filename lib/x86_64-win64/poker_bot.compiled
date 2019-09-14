@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\3.0.4\bin\x86_64-win64\fpc.exe" Date="1325662982"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -l -vewnhibq -FiD:\School\INF\poker_bot\lib\x86_64-win64 -FuD:\School\INF\poker_bot\ -FUD:\School\INF\poker_bot\lib\x86_64-win64\ -FED:\School\INF\poker_bot\ -oD:\School\INF\poker_bot\poker_bot.exe poker_bot.pas"/>
+</CONFIG>
