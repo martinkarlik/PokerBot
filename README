@@ -1,0 +1,6 @@
+A poker game with GUI, a project written in Pascal using a rather slow GUI library 'graph'. 
+Reasons for using the Pascal language and the 'graph' library were merely to fullfill the given requirements, 
+as this was only a high school project. The poker game is a texas hold'em heads-up (1v1) battle against a computer, 
+who understand the poker rules, as well as the strength of its hand and is able to correctly assess the situation 
+at the poker table. This makes the bot rather predictable and fairly easy to beat, however, occassionally it can also 
+pull of a pretty insane, though rather illogical bluff.
